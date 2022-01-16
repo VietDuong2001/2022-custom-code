@@ -2,3 +2,4 @@
 *.html
 *.css
 *.scss
+not minified js
